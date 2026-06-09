@@ -1,0 +1,9 @@
+accelerate>=1.13.0
+diffusers>=0.37.1
+sentencepiece>=0.2.1
+streamlit>=1.57.0
+transformers>=5.8.1
+groq>=0.4.0
+fpdf2>=2.7.0
+pillow>=10.0.0
+torch>=2.0.0
